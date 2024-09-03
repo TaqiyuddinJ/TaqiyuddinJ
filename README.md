@@ -7,7 +7,7 @@ I'm a passionate Software Engineer based in Surabaya, Indonesia. I specialize in
 - 💬 Ask me about **Java**, **Go**, and **Cloud Infrastructure**
 - ⚡ Fun fact: I enjoy reading novels and sharing stories over a cup of Java - the kind you drink and the kind you code, right here on the island that shares its name.
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaqiyuddinJ&show_icons=true&theme=radical)
+<!-- ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaqiyuddinJ&show_icons=true&theme=radical)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaqiyuddinJ&layout=compact&theme=radical)
 
 <!--
