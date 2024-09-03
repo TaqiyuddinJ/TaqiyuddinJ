@@ -16,10 +16,10 @@ I'm a passionate Software Engineer based in Surabaya, Indonesia. I specialize in
 - [Another Project](link-to-repository): Brief description of the project.
 -->
 ## 🛠️ Skills
-- **Languages**: Java, Go, Python
-- **Frameworks**: Spring Boot, Hibernate, Angular
+- **Languages**: Java, Go, JavaScript
+- **Frameworks**: Spring Boot, Gin, Angular, ExpressJS
 - **Databases**: MySQL, PostgreSQL
-- **Tools**: Git, Docker, Kubernetes
+- **Tools**: Git, JSON, RestAPI, Nginx
 
 ## 📫 How to reach me
 - Email: [taqiyuddin.j@gmail.com](mailto:taqiyuddin.j@gmail.com)
