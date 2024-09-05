@@ -1,10 +1,10 @@
 ## 👋 Hello, I'm Taqiyuddin Ja'far!
 
-I'm a passionate Software Engineer based in Surabaya, Indonesia. I specialize in backend development, particularly with Java Spring Boot, Go, and MySQL. I love crafting scalable and efficient digital solutions, one line of code at a time.
+I'm a Software Engineer based in Surabaya, Indonesia. I specialize in backend development, particularly with Java Spring Boot, Go, and MySQL. I love evolving solutions to become more scalable and more efficient.
 
-- 🌱 Currently learning **Kubernetes** and **AWS Lambda**
+- 🌱 Currently learning **CI/CD** and **Automation**
 - 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about **Java**, **Go**, and **Cloud Infrastructure**
+- 💬 Ask me about **Java**, **Go**, and **Pokémon**
 - ⚡ Fun fact: I enjoy reading novels and sharing stories over a cup of Java - the kind you drink and the kind you code, right here on the island that shares its name.
 
 <!-- ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaqiyuddinJ&show_icons=true&theme=radical)-->
