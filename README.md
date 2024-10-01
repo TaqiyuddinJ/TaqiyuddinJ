@@ -24,7 +24,7 @@ I'm a Software Engineer based in Surabaya, Indonesia. I specialize in backend de
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Git, JSON, RestAPI, Nginx
 
-##⚽ **Football Manager Career**  
+## ⚽ **Football Manager Career**  
 As an avid Football Manager player, I've cultivated a virtual career that showcases my ability to strategize, manage, and lead teams to success. Here are some highlights:
 
 ### 🔄 Career Overview:
