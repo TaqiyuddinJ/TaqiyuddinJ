@@ -16,6 +16,9 @@ I'm a Software Engineer based in Surabaya, Indonesia. I specialize in backend de
 - [Another Project](link-to-repository): Brief description of the project.
 -->
 ## 🛠️ Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - **Languages**: Java, Go, JavaScript
 - **Frameworks**: Spring Boot, Gin, Angular, ExpressJS
 - **Databases**: MySQL, PostgreSQL
