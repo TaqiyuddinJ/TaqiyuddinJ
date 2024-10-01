@@ -15,6 +15,15 @@ I'm a Software Engineer based in Surabaya, Indonesia. I specialize in backend de
 - [Project Name](link-to-repository): Brief description of what the project does.
 - [Another Project](link-to-repository): Brief description of the project.
 -->
+## 🛠️ Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- **Languages**: Java, Go, JavaScript
+- **Frameworks**: Spring Boot, Gin, Angular, ExpressJS
+- **Databases**: MySQL, PostgreSQL
+- **Tools**: Git, JSON, RestAPI, Nginx
+
 ## ⚽ Football Manager Career
 As an avid Football Manager player, I've cultivated a virtual career that showcases my ability to strategize, manage, and lead teams to success. Here are some highlights:
 
@@ -69,14 +78,7 @@ As an avid Football Manager player, I've cultivated a virtual career that showca
 I apply the same dedication and strategic mindset to my software projects as in leading football teams, consistently managing tasks and delivering results precisely.
 
 
-## 🛠️ Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-- **Languages**: Java, Go, JavaScript
-- **Frameworks**: Spring Boot, Gin, Angular, ExpressJS
-- **Databases**: MySQL, PostgreSQL
-- **Tools**: Git, JSON, RestAPI, Nginx
+
 
 ## 📫 How to reach me
 - Email: [taqiyuddin.j@gmail.com](mailto:taqiyuddin.j@gmail.com)
