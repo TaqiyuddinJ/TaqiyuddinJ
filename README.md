@@ -47,24 +47,24 @@ As an avid Football Manager player, I've cultivated a virtual career that showca
 - **Awards won**: 63  
 - **Total Career Earnings**: Rp. 62.5B
 - **Hall of Fame rankings**: 
-  - **Highest nationality ranking**: 1
-  - **Highest continental ranking**: 1
+  - **Highest nationality ranking**: 1 (2063)
+  - **Highest continental ranking**: 1 (2054)
 
 ## Trophies Won
 - **Club World Championship**: 4 times (2056-2058, 2063)
-- **Asian Champions League**: 6 times (2054, 2056, 2059, 2060, 2061, 2062)
+- **Asian Champions League**: 6 times (2054, 2056, 2057, 2058, 2061, 2063)
 - **Asian Confederation Cup**: 3 times (2046, 2048, 2049)
-- **Chinese Super League**: 8 times (2054-2062)
-- **Chinese FA Cup**: 3 times (2054, 2058, 2063)
-- **Chinese FA Super Cup**: 7 times (2056-2063)
-- **Indonesian Super Cup**: 3 times (2048-2052)
-- **Indonesian Cup**: 4 times (2048-2052)
-- **Indonesian League One**: 4 times (2046-2051)
+- **Chinese Super League**: 8 times (2054, 2056-2062)
+- **Chinese FA Cup**: 3 times (2054, 2057, 2058)
+- **Chinese FA Super Cup**: 7 times (2056, 2058-2063)
+- **Indonesian Super Cup**: 3 times (2048, 2049, 2052)
+- **Indonesian Cup**: 4 times (2048, 2049, 2051, 2052)
+- **Indonesian League One**: 4 times (2046, 2049-2051)
 
-## Notable Awards
-- **Indonesian League One Manager of the Year**: 3 times
-- **Chinese Super League Manager of the Year**: 5 times
-- **Chinese FA Cup Best Manager**: 2 times
+## Notable Individual Awards
+- **Indonesian League One Manager of the Year**: 3 times (2046, 2049, 2050)
+- **Chinese Super League Manager of the Year**: 5 times (2054, 2056, 2057, 2058, 2059)
+- **Chinese FA Cup Best Manager**: 2 times (2054, 2055)
 
 I apply the same dedication and strategic mindset to my software projects as in leading football teams, consistently managing tasks and delivering results precisely.
 
