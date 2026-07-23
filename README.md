@@ -8,7 +8,7 @@ I'm a Software Engineer based in Surabaya, Indonesia. I specialize in backend de
 - ⚡ Fun fact: I enjoy reading novels and sharing stories over a cup of Java - the kind you drink and the kind you code, right here on the island that shares its name.
 
 <!-- ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaqiyuddinJ&show_icons=true&theme=radical)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaqiyuddinJ&layout=compact&theme=radical)
+[![wakatime](https://wakatime.com/badge/user/6e46d963-d8b5-4675-9b2b-23069bd91f8d.svg)](https://wakatime.com/@6e46d963-d8b5-4675-9b2b-23069bd91f8d)
 
 <!--
 ## 🚀 Featured Projects
